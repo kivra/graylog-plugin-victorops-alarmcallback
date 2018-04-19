@@ -9,7 +9,7 @@ This plugin provides an alert callback to post alerts from Graylog to VictorOps.
 Installation
 ------------
 
-[Download the plugin](https://github.com/mcdermj/graylog-plugin-victorops-alarmcallback/releases)
+[Download the plugin](https://github.com/kivra/graylog-plugin-victorops-alarmcallback/releases)
 and place the `.jar` file in your Graylog plugin directory. The plugin directory
 is the `plugins/` folder relative from your `graylog-server` directory by default
 and can be configured in your `graylog.conf` file.
